@@ -25,7 +25,13 @@ I'm a computer science student passionate about building data pipelines and auto
 - **CS50's Introduction to Artificial Intelligence with Python** (Harvard University)
 - **DeepLearning.AI Specializations**
 
-## 🚀 What I'm Working On
+## 🚀 Featured Projects
+
+### [SQL Learning Platform](https://github.com/Javier-Briceno/SQL-Learning-Platform)
+Full-stack educational platform for SQL learning with role-based access control.
+`NestJS` `Angular` `PostgreSQL` `Prisma` `TypeScript`
+
+## 💻 What I'm Working On
 
 - Building end-to-end data pipeline projects
 - Developing workflow automation solutions with n8n
