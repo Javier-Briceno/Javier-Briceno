@@ -7,23 +7,22 @@ I'm a computer science student passionate about building data pipelines and auto
 ## 🔧 Technical Skills
 
 **Languages & Databases**
-- Python | SQL | Bash
+- Python | TypeScript | SQL
+- PostgreSQL | Prisma ORM
 
 **Data Engineering & Tools**
-- ETL/ELT Pipelines | n8n (Workflow Automation)
-- Pandas | Jupyter Notebooks
+- ETL/ELT Pipelines | API Integration
+- Pandas | pytest
 - Git & Version Control
 
+**Web Development**
+- NestJS | Angular | REST APIs
+- JWT Authentication | Angular Material
+  
 **Currently Learning**
 - Azure Cloud Platform
 - dbt (Data Build Tool)
 - Apache Airflow
-
-## 🎓 Certifications
-
-- **CS50's Introduction to Programming with Python** (Harvard University)
-- **CS50's Introduction to Artificial Intelligence with Python** (Harvard University)
-- **DeepLearning.AI Specializations**
 
 ## 🚀 Featured Projects
 
@@ -31,12 +30,23 @@ I'm a computer science student passionate about building data pipelines and auto
 Full-stack educational platform for SQL learning with role-based access control.
 `NestJS` `Angular` `PostgreSQL` `Prisma` `TypeScript`
 
-## 💻 What I'm Working On
+### [Weather API Client](https://github.com/Javier-Briceno/Weather-API-Client)
+Python CLI tool for fetching weather data with API integration and testing.
+- **REST API integration** with comprehensive error handling
+- Offline mock data system for testing
+- Response caching and unit tests with **pytest**
 
-- Building end-to-end data pipeline projects
-- Developing workflow automation solutions with n8n
-- Strengthening SQL skills for analytics engineering
-- Exploring cloud-native data architectures
+### [CS50P Todo Manager](https://github.com/Javier-Briceno/CS50P-Todo-Manager)
+CLI task manager with Markdown storage | Harvard CS50 Final Project
+- Regex-based Markdown parser with file I/O
+- **100% pytest test coverage**
+- Clean OOP design with pure functions
+
+## 🎓 Certifications
+
+- **CS50's Introduction to Programming with Python** (Harvard University)
+- **CS50's Introduction to Artificial Intelligence with Python** (Harvard University)
+- **DeepLearning.AI Specializations**
 
 ## 💼 Looking For
 
