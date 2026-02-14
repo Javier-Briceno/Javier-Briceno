@@ -122,9 +122,10 @@ Full-Stack-Bildungsplattform für SQL-Lernen mit automatisierter Query-Bewertung
 💡 *Offen für Zusammenarbeit bei Data Engineering, ETL-Automatisierung und Workflow-Orchestrierungs-Projekten*
 
 ---
----
----
 
+<details>
+<summary><h2>🇬🇧 English Version (Click to expand)</h2></summary>
+  
 # Hi there, I'm Javier 👋
 
 **Data Engineering Student @ Universität Siegen | GPA: 1.7/1.0 (sehr gut)**
@@ -245,3 +246,5 @@ Full-stack educational platform for SQL learning with automated query grading an
 ---
 
 💡 *Open to collaborations on data engineering, ETL automation, and workflow orchestration projects*
+
+</details>
